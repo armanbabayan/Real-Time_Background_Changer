@@ -3,7 +3,7 @@
 
 This project focuses on developing a solution 
 to change the background of a live video and
-changing the backgrounds with hand shaking. The goal is to create a software that can detect any movement in the video and replace it with an image based on user-defined criteria. This could be used for applications such as virtual reality, augmented reality, or simply as an entertaining tool.
+changing the backgrounds with hand shaking. It also allows to change backgrounds by pressing to "N" from keyboard. The goal is to create a software that can detect any movement in the video and replace it with an image based on user-defined criteria. This could be used for applications such as virtual reality, augmented reality, or simply as an entertaining tool.
 
 ## Technologies Used
 **Language:**  Python 3
