@@ -5,12 +5,20 @@ This project focuses on developing a solution
 to change the background of a live video and
 changing the backgrounds with hand shaking. It also allows to change backgrounds by pressing to "N" from keyboard. The goal is to create a software that can detect any movement in the video and replace it with an image based on user-defined criteria. This could be used for applications such as virtual reality, augmented reality, or simply as an entertaining tool.
 
-## How to use
+# Table of Content
+
+- [Overview](#overview)
+- [Run Locally](#run-locally)
+- [Technologies Used](#technologies-used)
+- [Authors](#authors)
+
+# Run Locally
 ### Installation:
+* Clone the repository using `git clone <link_of_repository>` commad.
 * Change your current working directory to the project main folder using `cd` command.
 * Create virtual environment for this project runing following 
-    commands from your terminal.
-    &nbsp; &nbsp; &nbsp; &nbsp; 1. `conda create --name <name_of_environment>` \
+    commands from your terminal. \
+    &nbsp; &nbsp; &nbsp; 1. `conda create --name <name_of_environment>` \
     &nbsp; &nbsp; &nbsp; 2. `conda activate <name_of_environment>`
 * Install requirements: \
     &nbsp; &nbsp; &nbsp; `pip install -r requirements.txt`
