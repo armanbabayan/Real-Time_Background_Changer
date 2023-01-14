@@ -25,7 +25,7 @@ for imgPath in listImg:
     imgList.append(img)
 # set initial index of the background image
 indexImg = 0
-# infinite loop for reading frames
+# infinite loop for reading framesq
 while True:
     success, img = cap.read()
     # resize given background image and
