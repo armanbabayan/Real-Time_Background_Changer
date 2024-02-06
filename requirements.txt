@@ -13,7 +13,7 @@ numpy==1.24.1
 opencv-contrib-python==4.7.0.68
 opencv-python==4.7.0.68
 packaging==23.0
-Pillow==10.0.1
+Pillow==10.2.0
 protobuf==3.20.3
 pyparsing==3.0.9
 python-dateutil==2.8.2
